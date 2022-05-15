@@ -1,0 +1,52 @@
+
+#first {
+    color:red
+    }
+
+#second {
+    color:blue
+    }
+
+#third {
+    color:green
+    }
+
+#four {
+    font-size: 300px
+    }
+
+#fifth {
+    font-size: 6px
+    }
+
+#six {
+    text-align:center
+    }
+
+#seven {
+    font-weight:bold
+    }
+
+#eight {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    }
+
+#nine {
+    font-size: 100px; color:orange;font-weight:bold
+    }
+
+.styledFont {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500
+}
+
+#styledImage {
+    border-style: double;
+    border-image: 200px;
+    border-color: aquamarine;
+
+
+}
+
+
+
